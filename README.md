@@ -1,4 +1,4 @@
 # osama-template 1
 ## Demo
-http://127.0.0.1:5500/index.html
+file:///D:/Random%20things/My%20Projects/third%20project/index.html
 
