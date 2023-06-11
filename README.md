@@ -1,4 +1,4 @@
 # osama-template 1
 ## Demo
- https://D:\Randomthings\MyProjects\thirdproject\index.html
+file:///D:/Random%20things/My%20Projects/third%20project/index.html
 
